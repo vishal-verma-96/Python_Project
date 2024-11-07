@@ -1,12 +1,12 @@
 # 🐝 Honey Production Analysis (1998 - 2021)
 
 ## 📌 Introduction
-Honey production is an integral part of the agricultural industry and plays a vital role in pollination, ecosystem balance, and economic growth. This analysis delves into the honey production trends in the United States from 1998 to 2021. By examining key metrics such as honey yield per colony, total production, and production value, we uncover valuable insights into the industry's evolution, including the impact of Colony Collapse Disorder (CCD), a significant concern that emerged in 2006.
+Honey production is an integral part of the agricultural industry and plays a vital role in pollination, ecosystem balance, and economic growth. This analysis delves into the honey production trends in the United States from 1998 to 2021. By examining key metrics such as honey yield per colony, total production, and production value, we uncover valuable insights into the industry's evolution, including the impact of Colony Collapse Disorder (CCD).
 
 ## 🔍 Objectives
 1. Analyze honey production yield trends from 1998 to 2021.
 2. Explore state-wise honey production patterns over time.
-3. Investigate trends in colony numbers and yield before the CCD crisis in 2006.
+3. Investigate trends in colony numbers and yield .
 4. Examine relationships between total honey production and production value.
 5. Assess the changes in the production value, which reflects market demand.
 
@@ -27,7 +27,7 @@ Honey production is an integral part of the agricultural industry and plays a vi
    - Combined multi-series plots to show correlations.
 
 4. **Insights**:
-   - Derived insights from visual trends such as declining yield per colony, decreasing colony numbers before 2006, and a positive correlation between production and its value.
+   - Derived insights from visual trends such as declining yield per colony, decreasing colony numbers, and a positive correlation between production and its value.
 
 ---
 
@@ -48,7 +48,7 @@ Honey production is an integral part of the agricultural industry and plays a vi
 
 2. **Time-Series Analysis**:
    - Plotted year-on-year metrics such as honey yield, production value, and colony numbers.
-   - Highlighted the pre-2006 trends to study the CCD impact.
+   - Highlighted the trends to study the CCD impact.
 
 3. **Correlation Analysis**:
    - Investigated relationships between production metrics using multi-series plots.
@@ -58,7 +58,7 @@ Honey production is an integral part of the agricultural industry and plays a vi
 ## 🔍 Insights and Conclusions
 - **Overall Decline**: Honey production yield has steadily decreased over the years.
 - **State Leaders**: North Dakota, South Dakota, Florida, and California remain key contributors to honey production.
-- **Pre-2006 Trends**: A marked decline in the number of colonies and yield per colony before the spread of CCD.
+- **Trends**: A marked decline in the number of colonies and yield per colony before the spread of CCD.
 - **Correlation**: Total production and production value are strongly correlated, peaking in 2014 before declining.
 - **Demand Reflection**: Production value trends reflect market demand fluctuations, influenced by environmental and economic factors.
 
@@ -66,6 +66,6 @@ Honey production is an integral part of the agricultural industry and plays a vi
 
 ## 🚀 Future Directions
 1. Investigate additional factors influencing honey production, such as environmental and climatic conditions.
-2. Analyze the impact of Colony Collapse Disorder beyond 2006.
+2. Analyze the impact of Colony Collapse Disorder.
 3. Explore predictive models to forecast future honey production and value trends.
 
