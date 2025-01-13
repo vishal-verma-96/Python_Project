@@ -1,5 +1,5 @@
 # 🐝 Honey Production Analysis (1998 - 2021)
-This repository contains an advanced Python project by Skill Academy, analyzing honey production yield (1998–2021) in various U.S. cities and their production values across different years.
+This repository contains a Python project on analysing honey production yield in various U.S. cities and their production values across different years.
 
 ## 📌 Introduction
 Honey production is an integral part of the agricultural industry and plays a vital role in pollination, ecosystem balance, and economic growth. This analysis delves into the honey production trends in the United States from 1998 to 2021. By examining key metrics such as honey yield per colony, total production, and production value, we uncover valuable insights into the industry's evolution, including the impact of Colony Collapse Disorder (CCD).
